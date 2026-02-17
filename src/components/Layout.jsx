@@ -28,7 +28,7 @@ export default function Layout() {
             className="h-7 w-7 sm:h-9 sm:w-9 md:h-10 md:w-10 object-contain"
           />
           <span className="text-sm sm:text-xl md:text-2xl font-bold truncate max-w-[45vw] sm:max-w-none">
-            Ridhi Sidhi Boutique
+            Ridhi Sidhi Tailors
           </span>
         </Link>
 

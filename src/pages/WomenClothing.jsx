@@ -124,10 +124,13 @@ export default function WomenClothing() {
             Women&apos;s wear
           </span>
           <h1 className="font-display text-4xl sm:text-5xl md:text-6xl font-semibold tracking-tight mt-2">
-            What We Stitch?
+            What We can Stitch for you?
           </h1>
           <p className="mt-4 text-white/85 text-lg max-w-md mx-auto">
             Lehenga, saree, suits & more — tailored with care in Raman, Punjab
+          </p>
+          <p className="mt-4 text-yellow-200 font-semibold text-lg max-w-md mx-auto">
+            Come with your demands to us, We will custom design it for you.
           </p>
           <div className="mt-6 w-16 h-px bg-amber-300/60 mx-auto" />
         </div>
