@@ -23,7 +23,7 @@ export default function Layout() {
           onClick={() => setMenuOpen(false)}
         >
           <img
-            src="/logo.png"
+            src="/logonow.png"
             alt="Ridhi Sidhi Boutique"
             className="h-7 w-7 sm:h-9 sm:w-9 md:h-10 md:w-10 object-contain"
           />
